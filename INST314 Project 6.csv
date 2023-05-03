@@ -1,0 +1,11 @@
+Q1,Q2,Q3,Q4,Q5,Age,Gender,Occupation
+8,6,6,approach_1,no,21,male,student
+7,7,8,approach_1,no,21,male,student
+1,2,10,approach_1,no,21,male,student
+2,3,9,approach_3,no,23,male,student
+7,8,2,approach_2,no,19,male,unoccupied
+1,1,10,approach_3,no,17,male,student
+3,7,9,approach_1,no,22,female,medical_device_sales
+4,2,9,approach_3,no,22,male,student
+1,2,6,approach_1,no ,19,female,student
+2,4,9,approach_2,no,19,male,student
